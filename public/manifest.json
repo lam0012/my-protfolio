@@ -1,0 +1,56 @@
+{
+    "id": "/",
+    "name": "Zlatko Agovic - Portfolio",
+    "short_name": "Zlatko Agovic",
+    "description": "Welcome to my portfolio! I am Zlatko Agovic, a Full-Stack Web Developer specializing in building scalable, responsive, and user-friendly web applications. Explore my work here!",
+    "start_url": ".",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#030014",
+    "theme_color": "#030014",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "Masab-Qurban-Portfolio-(landscape).png",
+            "sizes": "3840x2160",
+            "type": "image/png",
+            "form_factor": "wide"
+        },
+        {
+            "src": "/Masab-Qurban-Portfolio-(portrait).png",
+            "sizes": "824x1766",
+            "type": "image/png",
+            "form_factor": "narrow"
+        }
+    ],
+    "categories": [
+        "portfolio",
+        "education",
+        "developer"
+    ]
+}
